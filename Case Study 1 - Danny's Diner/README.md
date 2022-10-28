@@ -22,3 +22,10 @@ Danny wants to use the data to answer a few simple questions about his customers
 -- 9.  If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 
 -- 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
+
+
+## Additional 
+I assumed that Danny might need a dashboard to help him gain insight on the performance of his business and help him understand his customers better. So, I created a simple dashboard in PowerBI that could automatically update at the end of every month. To make the most of the dashboard, I will suggest to Danny to collect some more info from members and add more wonderful meals to his menu. 
+
+Here's a quick look 
+https://github.com/J20-Oge/8_week_sql_challenge/blob/main/Case%20Study%201%20-%20Danny's%20Diner/Final_Dasboard.png
