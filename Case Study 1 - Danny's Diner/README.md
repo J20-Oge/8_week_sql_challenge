@@ -29,4 +29,5 @@ I assumed that Danny might need a dashboard to help him gain insight on the perf
 
 Here's a quick look 
 
-https://github.com/J20-Oge/8_week_sql_challenge/blob/main/Case%20Study%201%20-%20Danny's%20Diner/Final_Dasboard.png
+![Final_Dasboard](https://user-images.githubusercontent.com/74779020/198734809-c40b827b-5563-43c1-bba6-68b10d1da70c.png)
+
