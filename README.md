@@ -10,5 +10,6 @@ You can follow these steps to set up the schema on your desktop in Mysql:
 Now thats out of the way, you can start answering the questions from the case study. Enjoy the SQL journey with some of my solutions. 
 
 Statisticaly yours,
+
 Oge
 
