@@ -29,7 +29,7 @@ I assumed that Danny might need a dashboard to help him gain insight on the perf
 So, I created a simple dashboard in PowerBI that could automatically update at the end of every month. 
 To make the most of the dashboard, I will suggest to Danny to collect some more info from members and add more wonderful meals to his menu. 
 
-Here's a quick look 
+Have a look 
 
 ![Final_Dasboard](https://user-images.githubusercontent.com/74779020/198734809-c40b827b-5563-43c1-bba6-68b10d1da70c.png)
 
